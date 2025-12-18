@@ -29,10 +29,9 @@ laravel-react-docker/
 ├── docker-compose.yml # Docker Compose cấu hình toàn hệ thống
 └── README.md
 ---
-
-## 4. Cách chạy dự án
-
-### 4.1 Clone source code
+### 4 Clone source code
 ```bash
-git clone https://github.com/USERNAME/laravel-react-docker.git
+git clone https://github.com/shuyentran2205/laravel-react-docker.git
 cd laravel-react-docker
+Cách chạy dự án: docker compose up --build
+
